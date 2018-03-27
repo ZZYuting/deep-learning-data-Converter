@@ -64,5 +64,16 @@ kiit annotation is in E:\bishe\train\label_2, when you run kiit2txt.py the new t
 
 **just run kiit2txt.py to use it.**
 
+## Reference
 
+Single Shot MultiBox Detector 训练KITTI数据集（1）
 
+https://blog.csdn.net/Jesse_Mx/article/details/65634482SSD: 
+
+以Detectron用自己的数据集训练目标检测模型
+
+http://www.yueye.org/2018/train-object-detection-model-using-detectron.html
+
+ MSCOCO数据标注详解
+
+https://blog.csdn.net/wc781708249/article/details/79603522
